@@ -1,9 +1,9 @@
 **Palindrome Number**
 ---
 
-Problem description can found [here](https://leetcode.com/problems/palindrome-number/)
-Solution Statistics can be found [here](https://leetcode.com/problems/palindrome-number/submissions/)
-Programming langugaage used - Java
+Problem description can found [here](https://leetcode.com/problems/palindrome-number/) <br />
+Solution Statistics can be found [here](https://leetcode.com/problems/palindrome-number/submissions/) <br />
+Programming langugaage used - Java <br />
 
 ---
 **Strategy**
